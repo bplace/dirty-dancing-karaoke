@@ -9,7 +9,7 @@ Fichier homemade pour avoir les paroles synchronisée durant les passages musica
 
 Pour vous faire un séance cinéma karaoké, retrouver ici les fichiers de sous-titres animés pour utilisation dans VLC.
 
-La version du film utilisée est Dirty Dancing - Édition Spéciale 30ème Anniversaire Combo Blu-ray + DVD, facile à se procurer en occasion. 
+La version du film utilisée est **Dirty Dancing - Édition Spéciale 30ème Anniversaire Combo Blu-ray + DVD**, facile à se procurer en occasion sur LeBonCoin ou Vinted. 
 
 Par contre, VLC supporte mal les sous titres durant la lecture des Blu-Ray, elle même très pénible à activer. Je vous recommande de faire un export en fichier du Blu-Ray via le logiciel [Handbrake](https://handbrake.fr/) et [AnyDVD](https://www.videohelp.com/software/AnyDVD).
 
