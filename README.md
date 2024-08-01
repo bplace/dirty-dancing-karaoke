@@ -1,10 +1,11 @@
 # Dirty Dancing Karaoke
 Fichier homemade pour avoir les paroles synchronisée durant les passages musicaux de Dirty Dancing (1987).
 
-![vlcsnap-2023-07-12-20h54m54s859](https://github.com/user-attachments/assets/b944acf0-ca0f-4d4c-8596-55e7e3a47ca1)
-![vlcsnap-2023-07-12-20h55m02s213](https://github.com/user-attachments/assets/49a9a9c7-009c-4428-87e7-8400bf7f065e)
-![vlcsnap-2023-07-12-20h55m16s157](https://github.com/user-attachments/assets/466634f8-0a5e-43ee-8bd1-e6fefce8e916)
-![vlcsnap-2023-07-12-20h51m39s324](https://github.com/user-attachments/assets/52a2ed84-8429-41cb-ac03-948cb657efcf)
+![vlcsnap-2023-07-12-20h55m16s157](https://github.com/user-attachments/assets/fae80a05-30f8-40da-b4e2-cc29783c20e9)
+![vlcsnap-2023-07-12-20h55m02s213](https://github.com/user-attachments/assets/89e6c55e-7684-4088-908d-e2a73d59828d)
+![vlcsnap-2023-07-12-20h54m54s859](https://github.com/user-attachments/assets/39c2d7f8-3a99-49c8-99de-bed2b679bf00)
+![vlcsnap-2023-07-12-20h51m39s324](https://github.com/user-attachments/assets/8b9c1532-61d1-475d-a42a-b91e60d7dd47)
+
 
 Pour vous faire un séance cinéma karaoké, retrouver ici les fichiers de sous-titres animés pour utilisation dans VLC.
 
