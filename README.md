@@ -17,3 +17,9 @@ La version DVD, de moins bonn qualité, fonctionne avec les sous-titres.
 Installez les polices [Belanosima](https://fonts.google.com/specimen/Belanosima) et [Signika Negative](https://fonts.google.com/specimen/Signika+Negative).
 
 Enfin, installez [VLC](https://www.videolan.org/vlc/index.fr.html), vous n'aurez plus qu'à lancer le film et charger les sous-titres!
+
+## Modifier les sous-titres
+
+Il est assez simple de modifier les fichiers pour retirer certains passages, téléchargez pour cela [Aegisub](https://aegisub.org/), il vous permettra de visualiser toutes les séquences.
+
+Le logiciel est un peu austère à première vue, pour la section karaoké spécifiquement, le [guide de karaoke mugen](https://docs.karaokes.moe/fr/contrib-guide/create-karaoke/karaoke/index.html) est idéal. On trouve d'autres ressources sur le [site officiel](https://aegisub.org/docs/latest/tutorials/).
